@@ -28,3 +28,19 @@ Serves as the development environment, integrating Apache, MySQL, PHP, and Perl 
 MySQL:
 
 The chosen database management system for storing and retrieving crime-related data.
+
+#### Usage:
+Login:
+
+Access the system by logging in with valid credentials.
+Crime Documentation:
+
+Use the provided forms to document new crimes, update existing records, and view crime details.
+Matter Control:
+
+Navigate to the matter control section to handle ongoing investigations and update case statuses.
+Game Control:
+
+Manage and control various police station activities through the game control functionalities.
+Contributing
+Contributions are welcome! If you have suggestions, bug reports, or want to contribute to the development, please follow the Contribution Guidelines.
