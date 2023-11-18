@@ -29,6 +29,12 @@ Serves as the development environment, integrating Apache, MySQL, PHP, and Perl 
 
 The chosen database management system for storing and retrieving crime-related data.
 
+###### CSS: 
+To enhance the visual appearance and styling of the user interface.
+
+###### VS Code:
+Integrated development environment for code editing.
+
 #### Usage:
 ###### Login:
 
