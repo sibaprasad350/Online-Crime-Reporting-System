@@ -1,29 +1,30 @@
+# Online Crime Reporting System
+### Introduction
+The Online Crime Reporting System is a comprehensive software solution designed to streamline the management of crime documentation and control within a police station. This system is built using HTML for the front-end, XAMPP as the development environment, and MySQL as the database management system.
 
-# Crime Complaint Management System
+#### Features
+User-Friendly Interface:
 
-1.Server - XAMPP
+The system provides an intuitive and user-friendly interface for police personnel to easily navigate and use.
+#### Crime Documentation:
 
-2.Text editer - VS code
+Enables the efficient documentation of crimes through a computerized system, reducing paperwork and improving data accuracy.
+#### Centralized Database:
 
-3. "Crime_Complaint_Management_System"
+Utilizes MySQL to create a centralized database for storing and managing all crime-related information.
+#### Matter Control:
 
-4. Download the zip file/ download winrar
+Facilitates matter control by allowing authorized users to input, update, and track information related to ongoing investigations.
+#### Game Control:
 
-5. Extract the file and copy "Crime_Complaint_Management_System" folder
+Manages and controls various aspects of police station activities, ensuring a systematic approach to handling cases and operations.
+#### Technologies Used:
+HTML:
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+Used for creating the user interface, providing a responsive and visually appealing experience.
+XAMPP:
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+Serves as the development environment, integrating Apache, MySQL, PHP, and Perl for a seamless web development experience.
+MySQL:
 
-8. Create a database with name crms_db
-
-6. Import crms_db_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Crime_Complaint_Management_System
-
-Username: admin
-Password: admin123
-
-
-Screenshort:
-
+The chosen database management system for storing and retrieving crime-related data.
