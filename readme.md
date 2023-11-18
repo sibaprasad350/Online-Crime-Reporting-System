@@ -19,27 +19,27 @@ Facilitates matter control by allowing authorized users to input, update, and tr
 
 Manages and controls various aspects of police station activities, ensuring a systematic approach to handling cases and operations.
 #### Technologies Used:
-HTML:
+###### HTML:
 
 Used for creating the user interface, providing a responsive and visually appealing experience.
-XAMPP:
+###### XAMPP:
 
 Serves as the development environment, integrating Apache, MySQL, PHP, and Perl for a seamless web development experience.
-MySQL:
+###### MySQL:
 
 The chosen database management system for storing and retrieving crime-related data.
 
 #### Usage:
-Login:
+###### Login:
 
 Access the system by logging in with valid credentials.
-Crime Documentation:
+###### Crime Documentation:
 
 Use the provided forms to document new crimes, update existing records, and view crime details.
-Matter Control:
+###### Matter Control:
 
 Navigate to the matter control section to handle ongoing investigations and update case statuses.
-Game Control:
+###### Game Control:
 
 Manage and control various police station activities through the game control functionalities.
 Contributing
